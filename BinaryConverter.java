@@ -31,7 +31,6 @@ public class BinaryConverter {
             result = "-" + result;
         return result;
     }
-    
     /*
      * pre: cal != null
      * post: return true if val consists only of characters 1 and 0, false otherwise
